@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelloSYQ
-- 👀 I’m interested in image processing, high-precision imaging model, clustering, filtering and gravity.
-- 🌱 I’m currently learning those I am interested XD
+- 👀 I’m interested in wireless communication, quantative trading, AI&LLM, physics, and money.
+- 🌱 Currently working on finding a path to sponsor my interests lmao
 
 
 <!---
