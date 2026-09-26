@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelloSYQ
-- 👀 I’m interested in wireless communication, quantative trading, AI&LLM, physics, and money.
+- 👀 I’m interested in image processing, AI&LLM, physics, wireless communication, and etc.
 - 🌱 Currently working on finding a path to sponsor my interests lmao
 
 
