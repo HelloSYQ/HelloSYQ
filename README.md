@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HelloSYQ
 - 👀 I’m interested in image processing, AI&LLM, physics, wireless communication, and etc.
-- 🌱 Currently working on finding a path to sponsor my interests lmao
-
+- AI will not be real intelligence
 
 <!---
 HelloSYQ/HelloSYQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
